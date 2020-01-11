@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tomdom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tomdom.github.io
+  * I am tomdom (https://keybase.io/tomdom) on keybase.
+  * I have a public key ASCr7Q5TkHDjsTqJtIho4jTs3IKwwcwBNblOSfTZVI4wgAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e2c38b0e02fd529b7354f30b1fde9dc6bce1630ae1a6e148fa1acab0eb5bbd550a",
+      "host": "keybase.io",
+      "kid": "0120abed0e539070e3b13a89b48868e234ecdc82b0c1cc0135b94e49f4d9548e30800a",
+      "uid": "d7783dc7f45ca3295aac87497eb58919",
+      "username": "tomdom"
+    },
+    "merkle_root": {
+      "ctime": 1578765770,
+      "hash": "edf636ff3bddff9bb91a6fcf44278ad198c3d29be9e5e6aaf2c971c61b934bcada5f200e9f1cebeab99ccf2028679456463bd0a66da63dcbf6bcd17ddd10d2e2",
+      "hash_meta": "c68af77b5d9cf49bdc7ae454b929ed805b45535033996b883389f9786706fd08",
+      "seqno": 14184925
+    },
+    "service": {
+      "entropy": "xBqVor2gkpPOfAKEGz9MhSga",
+      "hostname": "tomdom.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578765876,
+  "expire_in": 504576000,
+  "prev": "2e2cf793490ebaa3945fb58da3a3856251c3fa9c6f8d7b10dfc73360a56c5ddb",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgq+0OU5Bw47E6ibSIaOI07NyCsMHMATW5Tkn02VSOMIAKp3BheWxvYWTESpcCO8QgLiz3k0kOuqOUX7WNo6OFYlHD+pxvjXsQ38czYKVsXdvEIFunoOTGDpQXiEQBVGNesTQaNj1C7u6OLkQHkpNVrq+cAgHCo3NpZ8RAeH67EGI6uzoU0+/LACHi46s2hNIv6Xy8uDmalgB/yrAYVR4LGnwtRIqgJAEX4LQkOuK90dRzPrn1YexVuUoJCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA0PAs3yumASnAzdEr69H+CBKRkF2Uos3Ymm+NYkyceeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomdom
+
+==================================================================
